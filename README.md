@@ -1,18 +1,18 @@
 
 <h2>Hey there! I'm Sharada</h2>
 
-### 👨🏻‍💻 &nbsp;About Me
+## 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop software solutions.\
 🎓 &nbsp;I'm currently studying at Computer Science Engineering department, University of Moratuwa.\
-🌱 &nbsp;I'm on track for learning more about DevOps, Machine Learning, CyberSecurity and Cloud Architectures.\
-✍️ &nbsp;In my free time, I pursue watching TV Series, Writing codes as hobbies/side hustles.\
-✉️ &nbsp;You can contact me through sharadashehan6@gmail.com or sharadaw.21@cse.mrt.ac.lk! I'll try to respond as soon as I can.\
-📜 &nbsp;You can find my achievements [here](https://www.credly.com/users/sharada-shehan/badges)
+🌱 &nbsp;I'm on track for learning more about DevOps, Machine Learning, CyberSecurity and Cloud Architecture.\
+✍️ &nbsp;In my free time, I pursue watching TV Series, Movies and Writing codes as hobbies.\
+✉️ &nbsp;You can contact me through [Gmail](mailto:sharadashehan6@gmail.com). I'll try to respond as soon as I can.\
+📜 &nbsp;You can find my achievements on [Credly](https://www.credly.com/users/sharada-shehan/badges)
 
 <img alt="Coding" src="./assets/coding.gif" align="right" width="30%"/>
 
-### ⚙️ &nbsp;GitHub Analytics
+## ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
 <a href="https://github.com/SharadaShehan">
@@ -20,6 +20,7 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SharadaShehan&layout=compact&langs_count=8&theme=tokyonight"/>
 </a>
 </p>
+
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -30,7 +31,6 @@
 ![Java](https://img.shields.io/badge/java-007396?logo=java&logoColor=white&color=FF8000)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?logo=c&logoColor=white)
-
 
 #### Development Frameworks & Tools
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?logo=django&logoColor=white)
@@ -44,7 +44,6 @@
 ![Next JS](https://img.shields.io/badge/Next-black?logo=next.js&logoColor=white)
 ![Expo](https://img.shields.io/badge/expo-1C1E24?logo=expo&logoColor=#D04A37)
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?logo=webpack&logoColor=black)
-
 
 #### Development Environments
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white)
@@ -71,7 +70,6 @@
 ![Git](https://img.shields.io/badge/git-F05032?logo=git&logoColor=FFFFFF)
 ![GitHub](https://img.shields.io/badge/github-181717?logo=github&logoColor=FFFFFF)
 
-
 #### Databases
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?logo=postgresql&logoColor=white)
@@ -85,7 +83,6 @@
 ![SciPy](https://img.shields.io/badge/scipy-8CAAE6?logo=scipy&logoColor=FFFFFF)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?logo=pandas&logoColor=white)
 
-
 #### Operating Systems
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)
@@ -98,8 +95,9 @@
 ![Babel](https://img.shields.io/badge/Babel-F9DC3e?logo=babel&logoColor=black)
 
 
+## 🌐 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sharada-shehan-85408323a)
+[![Facebook](https://img.shields.io/badge/Facebook-%1877F2.svg?logo=facebook&logoColor=white&color=blue)](https://www.facebook.com/sharada.shehan)
 
 
-### 🤝🏻 &nbsp;Connect with Me
 
-</p>
