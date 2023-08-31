@@ -12,6 +12,15 @@
 
 <img alt="Coding" src="./assets/coding.gif" align="right" width="30%"/>
 
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/SharadaShehan">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=SharadaShehan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SharadaShehan&layout=compact&langs_count=8&theme=tokyonight"/>
+</a>
+</p>
+
 ### 🛠 &nbsp;Tech Stack
 
 #### Programming Languages
@@ -25,13 +34,13 @@
 #### Frontend Development Frameworks & Tools
 ![React](https://img.shields.io/badge/react-%2320232a.svg?logo=react&logoColor=%2361DAFB)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?logo=react&logoColor=%2361DAFB)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?logo=react-router&logoColor=white)
-![Expo](https://img.shields.io/badge/expo-1C1E24?logo=expo&logoColor=#D04A37)
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?logo=jquery&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next-black?logo=next.js&logoColor=white)
-![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?logo=webpack&logoColor=black)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?logo=css3&logoColor=white)
+![Expo](https://img.shields.io/badge/expo-1C1E24?logo=expo&logoColor=#D04A37)
+![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?logo=webpack&logoColor=black)
+
 
 #### Backend Development Frameworks & Tools
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?logo=django&logoColor=white)
@@ -39,16 +48,17 @@
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?logo=flask&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?logo=JSON%20web%20tokens)
 
-#### IDEs & Environments
-![CLion](https://img.shields.io/badge/CLion-black?logo=clion&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?logo=jupyter&logoColor=white)
-![PyCharm](https://img.shields.io/badge/pycharm-143?logo=pycharm&logoColor=black&color=black&labelColor=green)
-![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?logo=sublime-text&logoColor=important)
+#### IDEs
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white)
-![WebStorm](https://img.shields.io/badge/webstorm-143?logo=webstorm&logoColor=white&color=black)
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?logo=anaconda&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?logo=node.js&logoColor=white)
+![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?logo=sublime-text&logoColor=important)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?logo=jupyter&logoColor=white)
+![PyCharm](https://img.shields.io/badge/pycharm-143?logo=pycharm&logoColor=black&color=black&labelColor=green)
+![CLion](https://img.shields.io/badge/CLion-black?logo=clion&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white)
+![WebStorm](https://img.shields.io/badge/webstorm-143?logo=webstorm&logoColor=white&color=black)
+
 
 #### Version Control
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?logo=git&logoColor=white)
@@ -86,14 +96,7 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?logo=terraform&logoColor=white)
 
-### ⚙️ &nbsp;GitHub Analytics
 
-<p align="center">
-<a href="https://github.com/SharadaShehan">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=SharadaShehan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SharadaShehan&layout=compact&langs_count=8&theme=tokyonight"/>
-</a>
-</p>
 
 ### 🤝🏻 &nbsp;Connect with Me
 
