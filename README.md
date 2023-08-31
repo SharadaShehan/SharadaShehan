@@ -10,7 +10,6 @@
 ✉️ &nbsp;You can contact me through [Gmail](mailto:sharadashehan6@gmail.com). I'll try to respond as soon as I can.\
 📜 &nbsp;You can find my achievements on [Credly](https://www.credly.com/users/sharada-shehan/badges)
 
-<img alt="Coding" src="./assets/coding.gif" align="right" width="30%"/>
 
 ## ⚙️ &nbsp;GitHub Analytics
 
@@ -22,7 +21,7 @@
 </p>
 
 
-### 🛠 &nbsp;Tech Stack
+## 🛠 &nbsp;Tech Stack
 
 #### Programming Languages
 ![Python](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=FFFF00)
