@@ -3,7 +3,6 @@
 
 ## 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I like to explore new technologies and develop software solutions.\
 🎓 &nbsp;I'm currently studying at Computer Science Engineering department, University of Moratuwa.\
 🌱 &nbsp;I'm on track for learning more about DevOps, Machine Learning, CyberSecurity and Cloud Architecture.\
 ✍️ &nbsp;In my free time, I pursue watching TV Series, Movies and Writing codes as hobbies.\
