@@ -26,26 +26,25 @@
 
 ## 🛠 &nbsp;Tech Stack
 
-#### Programming Languages
+#### Languages
 ![Python](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=FFFF00)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?logo=javascript&logoColor=FFFF00&color=grey)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/java-007396?logo=java&logoColor=white&color=FF8000)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?logo=c&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?logo=css3&logoColor=white)
 
-#### Development Frameworks & Tools
+#### Development Frameworks
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?logo=django&logoColor=white)
 ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?logo=django&logoColor=white&color=ff1709&labelColor=gray)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?logo=flask&logoColor=white&color=330066)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?logo=react&logoColor=%2361DAFB)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?logo=react&logoColor=%2361DAFB)
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?logo=jquery&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?logo=css3&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next-black?logo=next.js&logoColor=white)
-![Expo](https://img.shields.io/badge/expo-1C1E24?logo=expo&logoColor=#D04A37)
-![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?logo=webpack&logoColor=black)
+![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?logo=jquery&logoColor=white)
+![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?logo=opencv&logoColor=white)
 
 #### Development Environments
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white)
@@ -69,6 +68,7 @@
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?logo=terraform&logoColor=white)
 ![Puppet](https://img.shields.io/badge/puppet-FFAE1A?logo=puppet&logoColor=FFFFFF)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
+![Insomnia](https://img.shields.io/badge/Insomnia-black?logo=insomnia&logoColor=white&color=330066)
 ![Git](https://img.shields.io/badge/git-F05032?logo=git&logoColor=FFFFFF)
 ![GitHub](https://img.shields.io/badge/github-181717?logo=github&logoColor=FFFFFF)
 
@@ -91,10 +91,14 @@
 ![Debian](https://img.shields.io/badge/Debian-D70A53?logo=debian&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white)
 
-#### Others
+#### Other Tools
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?logo=figma&logoColor=white)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white)
 ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?logo=cmake&logoColor=white)
 ![Babel](https://img.shields.io/badge/Babel-F9DC3e?logo=babel&logoColor=black)
+![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?logo=webpack&logoColor=black)
+![Expo](https://img.shields.io/badge/expo-1C1E24?logo=expo&logoColor=#D04A37)
+![JWT](https://img.shields.io/badge/JWT-black?logo=JSON%20web%20tokens&color=222222)
 
 
 ## 🌐 Connect With Me
