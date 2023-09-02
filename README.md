@@ -1,6 +1,8 @@
 
 <h2>Hey there! I'm Sharada</h2>
 
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="line_break.gif"></a>
+
 ## 👨🏻‍💻 &nbsp;About Me
 
 🎓 &nbsp;I'm currently studying at Computer Science Engineering department, University of Moratuwa.\
