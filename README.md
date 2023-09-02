@@ -1,6 +1,5 @@
-<img src="line_break.gif">
-<h2>Hey there! I'm Sharada</h2>
 
+<h2>Hey there! I'm Sharada</h2>
 
 ## 👨🏻‍💻 &nbsp;About Me
 
