@@ -20,10 +20,6 @@
 </p>
 
 
-## 🏆 GitHub Trophies
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=SharadaShehan&theme=algolia&column=-1&margin-w=5&no-frame=true" alt="github trophy"/>
-</p>
 
 ## 🛠 &nbsp;Tech Stack
 
