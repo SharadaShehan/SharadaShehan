@@ -7,7 +7,7 @@
 🌱 &nbsp;I'm on track for learning more about DevOps, Machine Learning, CyberSecurity and Cloud Architecture.\
 ✍️ &nbsp;In my free time, I pursue watching TV Series, Movies and Writing codes as hobbies.\
 ✉️ &nbsp;You can contact me through [Gmail](mailto:sharadashehan6@gmail.com). I'll try to respond as soon as I can.\
-📜 &nbsp;You can find my achievements on [Credly](https://www.credly.com/users/sharada-shehan/badges)
+📜 &nbsp;You can find my achievements on [Credly](https://www.credly.com/users/sharada-shehan/badges) and [Cousera](https://www.coursera.org/user/a79b13e43dfd912776f0bbc2aac4c7a7)
 
 
 ## ⚙️ &nbsp;GitHub Analytics
