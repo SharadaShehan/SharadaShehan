@@ -3,8 +3,8 @@
 
 ## 👨🏻‍💻 &nbsp;About Me
 
-🎓 &nbsp;I'm currently studying at Computer Science Engineering department, University of Moratuwa.\
-🌱 &nbsp;I'm on track for learning more about DevOps, Machine Learning, CyberSecurity and Cloud Architecture.\
+🎓 &nbsp;I currently study at Computer Science Engineering department, University of Moratuwa.\
+🌱 &nbsp;I'm actively pursuing skills development in the domains of DevOps, Machine Learning, Cybersecurity, and Cloud Architecture.\
 ✍️ &nbsp;In my free time, I pursue watching TV Series, Movies and Writing codes as hobbies.\
 ✉️ &nbsp;You can contact me through [Gmail](mailto:sharadashehan6@gmail.com). I'll try to respond as soon as I can.\
 📜 &nbsp;You can find my achievements on [Credly](https://www.credly.com/users/sharada-shehan/badges) and [Coursera](https://www.coursera.org/user/a79b13e43dfd912776f0bbc2aac4c7a7)
@@ -30,12 +30,16 @@
 ![Java](https://img.shields.io/badge/java-007396?logo=java&logoColor=white&color=FF8000)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?logo=c&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?logo=css3&logoColor=white)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?logo=markdown&logoColor=white)
 
 #### Development Frameworks
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?logo=django&logoColor=white)
 ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?logo=django&logoColor=white&color=ff1709&labelColor=gray)
+![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?logo=apollo-graphql)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?logo=flask&logoColor=white&color=330066)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?logo=react&logoColor=%2361DAFB)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?logo=react&logoColor=%2361DAFB)
@@ -62,6 +66,8 @@
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?logo=kubernetes&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?logo=azure-devops&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?logo=google-cloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-aws&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?logo=vercel&logoColor=white)
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?logo=terraform&logoColor=white)
 ![Puppet](https://img.shields.io/badge/puppet-FFAE1A?logo=puppet&logoColor=FFFFFF)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
@@ -72,6 +78,7 @@
 #### Databases
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?logo=sqlite&logoColor=white)
 
 #### Machine Learning
