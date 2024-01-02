@@ -3,7 +3,7 @@
 
 ## 👨🏻‍💻 &nbsp;About Me
 
-🎓 &nbsp;I currently study at Computer Science Engineering department, University of Moratuwa.\
+🎓 &nbsp;I'm currently studying at Computer Science Engineering department, University of Moratuwa.\
 🌱 &nbsp;I'm actively pursuing skills development in the domains of DevOps, Machine Learning, Cybersecurity, and Cloud Architecture.\
 ✍️ &nbsp;In my free time, I pursue watching TV Series, Movies and Writing codes as hobbies.\
 ✉️ &nbsp;You can contact me through [Gmail](mailto:sharadashehan6@gmail.com). I'll try to respond as soon as I can.\
