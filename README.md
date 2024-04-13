@@ -43,8 +43,9 @@
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?logo=flask&logoColor=white&color=330066)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?logo=react&logoColor=%2361DAFB)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?logo=next.js&logoColor=white)
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?logo=react&logoColor=%2361DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?logo=Flutter&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?logo=jquery&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?logo=opencv&logoColor=white)
 
